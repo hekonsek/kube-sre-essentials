@@ -2,7 +2,7 @@ nginx-ingress:
   controller:
     service:
       externalIPs:
-      - {{ .Value.ingressIP }}
+      - {{ .Value.ingress.ip }}
     hostNetwork: true
     nodeSelector:
-      kubernetes.io/hostname: machine0001
+      kubernetes.io/hostname: {{ .Value.ingress.nodeSelector }}
