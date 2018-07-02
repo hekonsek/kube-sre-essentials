@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   kube-sre-essentials:
   - apiVersion: v1
-    created: 2018-07-02T16:59:02.564019674+02:00
+    created: 2018-07-02T17:23:28.550488976+02:00
+    description: kube-sre-essentials
+    digest: dfe8e323e97e14b7d78c4994f5526abbac62f45514cf5b83d836b965f5c16637
+    name: kube-sre-essentials
+    urls:
+    - kube-sre-essentials-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-07-02T17:23:28.547005812+02:00
     description: kube-sre-essentials
     digest: 869e6e3ee1006f8a92bf321d17a4fb1596d4bfa4c31b5d7d57cabe9518b28b18
     name: kube-sre-essentials
@@ -10,11 +18,11 @@ entries:
     - kube-sre-essentials-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
-    created: 2018-07-02T16:59:02.561470402+02:00
+    created: 2018-07-02T17:23:28.545279745+02:00
     description: kube-sre-essentials
     digest: 94184c6897b48dd516867229e238014f214cf4394ca7f9b99bba4e8d1d030fed
     name: kube-sre-essentials
     urls:
     - kube-sre-essentials-0.0.0.tgz
     version: 0.0.0
-generated: 2018-07-02T16:59:02.55849196+02:00
+generated: 2018-07-02T17:23:28.543431915+02:00
