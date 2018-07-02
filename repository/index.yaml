@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  kube-sre-essentials:
+  - apiVersion: v1
+    created: 2018-07-02T16:46:00.962931833+02:00
+    description: kube-sre-essentials
+    digest: 94184c6897b48dd516867229e238014f214cf4394ca7f9b99bba4e8d1d030fed
+    name: kube-sre-essentials
+    urls:
+    - kube-sre-essentials-0.0.0.tgz
+    version: 0.0.0
+generated: 2018-07-02T16:46:00.961128375+02:00
