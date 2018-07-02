@@ -1,5 +1,0 @@
-nginx-ingress:
-  controller:
-    hostNetwork: true
-    nodeSelector:
-      kubernetes.io/hostname: machine0001
